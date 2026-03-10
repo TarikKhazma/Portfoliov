@@ -117,8 +117,7 @@ class BottomWeb extends StatelessWidget {
               SizedBox(height: height * 0.02),
               TextButton(
                 onPressed: () {
-                  lunchWeb.openWebsite(context,
-                      Uri.parse('https://www.facebook.com/share/16oBZE2wNS/'));
+                  lunchWeb.openWebsite(context, Uri.parse(''));
                 },
                 child: Text('facebook',
                     style:
@@ -129,7 +128,7 @@ class BottomWeb extends StatelessWidget {
                   lunchWeb.openWebsite(
                       context,
                       Uri.parse(
-                          'https://www.instagram.com/tarek_srheed?igsh=cnFnanMydHhzNW1m'));
+                          'https://www.instagram.com/tarekhazma?igsh=MTA1N3h5aTIxM203OQ%3D%3D&utm_source=qr'));
                 },
                 child: Text('Instagram',
                     style:
@@ -203,8 +202,7 @@ class BottomWeb extends StatelessWidget {
           SizedBox(height: height * 0.02),
           TextButton(
             onPressed: () {
-              lunchWeb.openWebsite(context,
-                  Uri.parse('https://www.facebook.com/share/16oBZE2wNS/'));
+              lunchWeb.openWebsite(context, Uri.parse(''));
             },
             child: Text('facebook',
                 style: content2Style.copyWith(fontSize: isMobile ? 16 : null)),
@@ -214,7 +212,7 @@ class BottomWeb extends StatelessWidget {
               lunchWeb.openWebsite(
                   context,
                   Uri.parse(
-                      'https://www.instagram.com/tarek_srheed?igsh=cnFnanMydHhzNW1m'));
+                      'https://www.instagram.com/tarekhazma?igsh=MTA1N3h5aTIxM203OQ%3D%3D&utm_source=qr'));
             },
             child: Text('Instagram',
                 style: content2Style.copyWith(fontSize: isMobile ? 16 : null)),

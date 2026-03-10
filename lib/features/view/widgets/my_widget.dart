@@ -63,7 +63,7 @@ class Widgets {
                 lunchWeb,
                 context,
                 text: 'LinkedIn',
-                url: 'www.linkedin.com/in/tarek-almohammad-7b850a228',
+                url: 'https://www.LinkedIn.com/in/tarek-khazma-432099122',
                 height: 35,
                 width: double.maxFinite,
               ),
@@ -127,8 +127,7 @@ class Widgets {
                 lunchWeb,
                 context,
                 text: 'LinkedIn',
-                url:
-                    'https://www.linkedin.com/in/tarek-almohamad-7b850a228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app',
+                url: 'https://www.LinkedIn.com/in/tarek-khazma-432099122',
                 height: 40,
                 width: double.maxFinite,
               ),
@@ -196,11 +195,11 @@ class Widgets {
                 fontSize: isMobile ? 20 : (isTablet ? 22 : 26),
               ),
               Text(
-                'Informatics Engineering, Computers Department',
+                'Bachelor of Science (Hons) in Software Engineering with Multimedia',
                 style: h3Style.copyWith(fontSize: isMobile ? 15 : null),
               ),
               Text(
-                'Ittihad Private University',
+                'Limkokwing University of Creative Technology',
                 style: h3Style.copyWith(
                     fontSize: isMobile ? 15 : null,
                     fontWeight: FontWeight.w400),
@@ -249,11 +248,11 @@ class Widgets {
                 fontSize: isTablet ? 22 : 26,
               ),
               Text(
-                'Informatics Engineering, Computers Department',
+                'Bachelor of Science (Hons) in Software Engineering with Multimedia',
                 style: h3Style.copyWith(fontSize: isTablet ? 17 : null),
               ),
               Text(
-                'Ittihad Private University',
+                'Limkokwing University of Creative Technology',
                 style: h3Style.copyWith(fontSize: isTablet ? 17 : null),
               ),
               GradientText(
@@ -279,7 +278,7 @@ class Widgets {
                 fontSize: isTablet ? 24 : 26,
               ),
               Text(
-                '• Flutter framework, Dart, Firebase, Supabase, Hive\n• State management : Bloc, Riverpod, Get X, etc. \n• Architecture Patterns: MVC, MVP, MVVM, \n• etc. RESTful APIs, JSON, MySQL \n• Git, Version control, Clean Code, Microsoft Office',
+                '• Flutter framework, Dart, Firebase, Supabase, Hive\n• State management : Bloc, Riverpod, etc. \n• Architecture Patterns: MVC, MVP, MVVM, \n• etc. RESTful APIs, JSON, MySQL \n• Git, Version control, Clean Code, Microsoft Office',
                 style: contentStyle.copyWith(fontSize: isTablet ? 15 : null),
               ),
             ],
