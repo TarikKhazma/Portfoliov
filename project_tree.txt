@@ -1,0 +1,1079 @@
+Folder PATH listing
+Volume serial number is F46F-6C24
+C:.
+│   .flutter-plugins-dependencies
+│   .gitignore
+│   .metadata
+│   analysis_options.yaml
+│   portfolio.iml
+│   project_tree.txt
+│   pubspec.lock
+│   pubspec.yaml
+│   README.md
+│
+├───.dart_tool
+│   │   package_config.json
+│   │   package_graph.json
+│   │   version
+│   │
+│   ├───chrome-device
+│   │   └───Default
+│   │       │   Account Web Data
+│   │       │   Account Web Data-journal
+│   │       │   Affiliation Database
+│   │       │   Affiliation Database-journal
+│   │       │   BookmarkMergedSurfaceOrdering
+│   │       │   BrowsingTopicsSiteData
+│   │       │   BrowsingTopicsSiteData-journal
+│   │       │   BrowsingTopicsState
+│   │       │   DIPS
+│   │       │   DIPS-wal
+│   │       │   Favicons
+│   │       │   Favicons-journal
+│   │       │   heavy_ad_intervention_opt_out.db
+│   │       │   heavy_ad_intervention_opt_out.db-journal
+│   │       │   History
+│   │       │   History-journal
+│   │       │   LOCK
+│   │       │   LOG
+│   │       │   LOG.old
+│   │       │   Login Data
+│   │       │   Login Data For Account
+│   │       │   Login Data For Account-journal
+│   │       │   Login Data-journal
+│   │       │   MediaDeviceSalts
+│   │       │   MediaDeviceSalts-journal
+│   │       │   Network Action Predictor
+│   │       │   Network Action Predictor-journal
+│   │       │   passkey_enclave_state
+│   │       │   Preferences
+│   │       │   PreferredApps
+│   │       │   README
+│   │       │   Secure Preferences
+│   │       │   ServerCertificate
+│   │       │   ServerCertificate-journal
+│   │       │   SharedStorage
+│   │       │   Shortcuts
+│   │       │   Shortcuts-journal
+│   │       │   Top Sites
+│   │       │   Top Sites-journal
+│   │       │   trusted_vault.pb
+│   │       │   Web Data
+│   │       │   Web Data-journal
+│   │       │
+│   │       ├───AutofillStrikeDatabase
+│   │       │       LOCK
+│   │       │       LOG
+│   │       │       LOG.old
+│   │       │
+│   │       ├───blob_storage
+│   │       │   ├───9ee00375-23f6-4cc4-9817-a4692e02ef13
+│   │       │   ├───b46a44e5-44e8-408c-90a4-dc0e04f6af9a
+│   │       │   └───bba1ce73-b4f9-4db6-a06e-01974636879f
+│   │       ├───BudgetDatabase
+│   │       │       LOCK
+│   │       │       LOG
+│   │       │       LOG.old
+│   │       │
+│   │       ├───chrome_cart_db
+│   │       │       LOCK
+│   │       │       LOG
+│   │       │       LOG.old
+│   │       │
+│   │       ├───ClientCertificates
+│   │       │       LOCK
+│   │       │       LOG
+│   │       │       LOG.old
+│   │       │
+│   │       ├───commerce_subscription_db
+│   │       │       LOCK
+│   │       │       LOG
+│   │       │       LOG.old
+│   │       │
+│   │       ├───discounts_db
+│   │       │       LOCK
+│   │       │       LOG
+│   │       │       LOG.old
+│   │       │
+│   │       ├───discount_infos_db
+│   │       │       LOCK
+│   │       │       LOG
+│   │       │       LOG.old
+│   │       │
+│   │       ├───Download Service
+│   │       │   ├───EntryDB
+│   │       │   │       LOCK
+│   │       │   │       LOG
+│   │       │   │       LOG.old
+│   │       │   │
+│   │       │   └───Files
+│   │       ├───Extension Rules
+│   │       │       000003.log
+│   │       │       CURRENT
+│   │       │       LOCK
+│   │       │       LOG
+│   │       │       LOG.old
+│   │       │       MANIFEST-000001
+│   │       │
+│   │       ├───Extension Scripts
+│   │       │       000003.log
+│   │       │       CURRENT
+│   │       │       LOCK
+│   │       │       LOG
+│   │       │       LOG.old
+│   │       │       MANIFEST-000001
+│   │       │
+│   │       ├───Extension State
+│   │       │       000003.log
+│   │       │       CURRENT
+│   │       │       LOCK
+│   │       │       LOG
+│   │       │       LOG.old
+│   │       │       MANIFEST-000001
+│   │       │
+│   │       ├───Feature Engagement Tracker
+│   │       │   ├───AvailabilityDB
+│   │       │   │       LOCK
+│   │       │   │       LOG
+│   │       │   │       LOG.old
+│   │       │   │
+│   │       │   └───EventDB
+│   │       │           LOCK
+│   │       │           LOG
+│   │       │           LOG.old
+│   │       │
+│   │       ├───GCM Store
+│   │       │   │   000003.log
+│   │       │   │   CURRENT
+│   │       │   │   LOCK
+│   │       │   │   LOG
+│   │       │   │   MANIFEST-000001
+│   │       │   │
+│   │       │   └───Encryption
+│   │       │           000003.log
+│   │       │           CURRENT
+│   │       │           LOCK
+│   │       │           LOG
+│   │       │           LOG.old
+│   │       │           MANIFEST-000001
+│   │       │
+│   │       ├───JumpListIconsRecentClosed
+│   │       │       d13735a5-5c4e-4f21-a25d-a1be1a8a98d1.tmp
+│   │       │
+│   │       ├───Local Storage
+│   │       │   └───leveldb
+│   │       │           000003.log
+│   │       │           CURRENT
+│   │       │           LOCK
+│   │       │           LOG
+│   │       │           LOG.old
+│   │       │           MANIFEST-000001
+│   │       │
+│   │       ├───Network
+│   │       │       Cookies
+│   │       │       Cookies-journal
+│   │       │       Network Persistent State
+│   │       │       NetworkDataMigrated
+│   │       │       Reporting and NEL
+│   │       │       Reporting and NEL-journal
+│   │       │       TransportSecurity
+│   │       │       Trust Tokens
+│   │       │       Trust Tokens-journal
+│   │       │
+│   │       ├───optimization_guide_hint_cache_store
+│   │       │       LOCK
+│   │       │       LOG
+│   │       │       LOG.old
+│   │       │
+│   │       ├───parcel_tracking_db
+│   │       │       LOCK
+│   │       │       LOG
+│   │       │       LOG.old
+│   │       │
+│   │       ├───PersistentOriginTrials
+│   │       │       LOCK
+│   │       │       LOG
+│   │       │       LOG.old
+│   │       │
+│   │       ├───Safe Browsing Network
+│   │       │       NetworkDataMigrated
+│   │       │       Safe Browsing Cookies
+│   │       │       Safe Browsing Cookies-journal
+│   │       │
+│   │       ├───Segmentation Platform
+│   │       │   ├───SegmentInfoDB
+│   │       │   │       LOCK
+│   │       │   │       LOG
+│   │       │   │       LOG.old
+│   │       │   │
+│   │       │   ├───SignalDB
+│   │       │   │       LOCK
+│   │       │   │       LOG
+│   │       │   │       LOG.old
+│   │       │   │
+│   │       │   └───SignalStorageConfigDB
+│   │       │           LOCK
+│   │       │           LOG
+│   │       │           LOG.old
+│   │       │
+│   │       ├───Service Worker
+│   │       │   ├───Database
+│   │       │   │       000003.log
+│   │       │   │       CURRENT
+│   │       │   │       LOCK
+│   │       │   │       LOG
+│   │       │   │       LOG.old
+│   │       │   │       MANIFEST-000001
+│   │       │   │
+│   │       │   └───ScriptCache
+│   │       │       │   2cc80dabc69f58b6_0
+│   │       │       │   4cb013792b196a35_0
+│   │       │       │   4cb013792b196a35_1
+│   │       │       │   index
+│   │       │       │
+│   │       │       └───index-dir
+│   │       │               the-real-index
+│   │       │
+│   │       ├───Session Storage
+│   │       │       000003.log
+│   │       │       CURRENT
+│   │       │       LOCK
+│   │       │       LOG
+│   │       │       LOG.old
+│   │       │       MANIFEST-000001
+│   │       │
+│   │       ├───Sessions
+│   │       │       Session_13417589088214981
+│   │       │       Session_13417589952773303
+│   │       │       Session_13417591622405787
+│   │       │       Tabs_13417589513984873
+│   │       │       Tabs_13417589953039804
+│   │       │       Tabs_13417591623244807
+│   │       │
+│   │       ├───Shared Dictionary
+│   │       │   │   db
+│   │       │   │   db-journal
+│   │       │   │
+│   │       │   └───cache
+│   │       │       │   index
+│   │       │       │
+│   │       │       └───index-dir
+│   │       │               the-real-index
+│   │       │
+│   │       ├───shared_proto_db
+│   │       │   │   000003.log
+│   │       │   │   CURRENT
+│   │       │   │   LOCK
+│   │       │   │   LOG
+│   │       │   │   LOG.old
+│   │       │   │   MANIFEST-000001
+│   │       │   │
+│   │       │   └───metadata
+│   │       │           000003.log
+│   │       │           CURRENT
+│   │       │           LOCK
+│   │       │           LOG
+│   │       │           LOG.old
+│   │       │           MANIFEST-000001
+│   │       │
+│   │       ├───Site Characteristics Database
+│   │       │       000003.log
+│   │       │       CURRENT
+│   │       │       LOCK
+│   │       │       LOG
+│   │       │       LOG.old
+│   │       │       MANIFEST-000001
+│   │       │
+│   │       ├───Sync Data
+│   │       │   └───LevelDB
+│   │       │           000003.log
+│   │       │           CURRENT
+│   │       │           LOCK
+│   │       │           LOG
+│   │       │           LOG.old
+│   │       │           MANIFEST-000001
+│   │       │
+│   │       └───WebStorage
+│   │               QuotaManager
+│   │               QuotaManager-journal
+│   │
+│   ├───dartpad
+│   │       web_plugin_registrant.dart
+│   │
+│   ├───extension_discovery
+│   │       vs_code.json
+│   │
+│   └───flutter_build
+│           dart_plugin_registrant.dart
+│
+├───.idea
+│   │   modules.xml
+│   │   workspace.xml
+│   │
+│   ├───libraries
+│   │       Dart_SDK.xml
+│   │       KotlinJavaRuntime.xml
+│   │
+│   └───runConfigurations
+│           main_dart.xml
+│
+├───android
+│   │   .gitignore
+│   │   build.gradle.kts
+│   │   gradle.properties
+│   │   gradlew
+│   │   gradlew.bat
+│   │   local.properties
+│   │   portfolio_android.iml
+│   │   settings.gradle.kts
+│   │
+│   ├───.gradle
+│   │   ├───8.14
+│   │   │   │   gc.properties
+│   │   │   │
+│   │   │   ├───checksums
+│   │   │   │       checksums.lock
+│   │   │   │
+│   │   │   ├───executionHistory
+│   │   │   │       executionHistory.lock
+│   │   │   │
+│   │   │   ├───expanded
+│   │   │   ├───fileChanges
+│   │   │   │       last-build.bin
+│   │   │   │
+│   │   │   ├───fileHashes
+│   │   │   │       fileHashes.bin
+│   │   │   │       fileHashes.lock
+│   │   │   │       resourceHashesCache.bin
+│   │   │   │
+│   │   │   └───vcsMetadata
+│   │   ├───buildOutputCleanup
+│   │   │       buildOutputCleanup.lock
+│   │   │       cache.properties
+│   │   │
+│   │   ├───noVersion
+│   │   │       buildLogic.lock
+│   │   │
+│   │   └───vcs-1
+│   │           gc.properties
+│   │
+│   ├───app
+│   │   │   build.gradle.kts
+│   │   │
+│   │   └───src
+│   │       ├───debug
+│   │       │       AndroidManifest.xml
+│   │       │
+│   │       ├───main
+│   │       │   │   AndroidManifest.xml
+│   │       │   │
+│   │       │   ├───java
+│   │       │   │   └───io
+│   │       │   │       └───flutter
+│   │       │   │           └───plugins
+│   │       │   │                   GeneratedPluginRegistrant.java
+│   │       │   │
+│   │       │   ├───kotlin
+│   │       │   │   └───com
+│   │       │   │       └───example
+│   │       │   │           └───portfolio
+│   │       │   │                   MainActivity.kt
+│   │       │   │
+│   │       │   └───res
+│   │       │       ├───drawable
+│   │       │       │       launch_background.xml
+│   │       │       │
+│   │       │       ├───drawable-v21
+│   │       │       │       launch_background.xml
+│   │       │       │
+│   │       │       ├───mipmap-hdpi
+│   │       │       │       ic_launcher.png
+│   │       │       │
+│   │       │       ├───mipmap-mdpi
+│   │       │       │       ic_launcher.png
+│   │       │       │
+│   │       │       ├───mipmap-xhdpi
+│   │       │       │       ic_launcher.png
+│   │       │       │
+│   │       │       ├───mipmap-xxhdpi
+│   │       │       │       ic_launcher.png
+│   │       │       │
+│   │       │       ├───mipmap-xxxhdpi
+│   │       │       │       ic_launcher.png
+│   │       │       │
+│   │       │       ├───values
+│   │       │       │       styles.xml
+│   │       │       │
+│   │       │       └───values-night
+│   │       │               styles.xml
+│   │       │
+│   │       └───profile
+│   │               AndroidManifest.xml
+│   │
+│   └───gradle
+│       └───wrapper
+│               gradle-wrapper.jar
+│               gradle-wrapper.properties
+│
+├───assets
+│   └───images
+│       │   chat_home.jpg
+│       │   home_electron.jpg
+│       │   home_map.png
+│       │   home_page_news.png
+│       │   home_page_notes.png
+│       │   home_travel.jpg
+│       │   logo_chat.jpg
+│       │   logo_forms.png
+│       │   logo_news.png
+│       │   logo_note.png
+│       │   logo_ride.jpeg
+│       │   phone_cover.png
+│       │   untitled_design.png
+│       │   welcome_ride.png
+│       │
+│       ├───chat_images
+│       │       categores.png
+│       │       category_item.png
+│       │       chat.png
+│       │       create_group.png
+│       │       drawer.png
+│       │       exit_group.png
+│       │       group_info.png
+│       │       home.png
+│       │       logout.png
+│       │       profile.png
+│       │       regester.png
+│       │       regester2.png
+│       │       search.png
+│       │       sugesting_groups.png
+│       │
+│       ├───forms_images
+│       │       home.png
+│       │       logout.png
+│       │       prize.png
+│       │       questions.png
+│       │       rigester1.png
+│       │       rigester2.png
+│       │       rigester3.png
+│       │
+│       ├───news_images
+│       │       account.png
+│       │       home_page.png
+│       │       login_page.png
+│       │       Saved_Page.png
+│       │       Search_Page.png
+│       │       Splash_Screen.png
+│       │
+│       ├───note_images
+│       │       Editor.png
+│       │       Editor_1.png
+│       │       Editor_2.png
+│       │       Home_Screen.png
+│       │       Home_Screen_1.png
+│       │       Home_Screen_Empty.png
+│       │       Searching_Note.png
+│       │
+│       └───ride_images
+│               avalible_bikespng.png
+│               bike_detials.png
+│               complited.png
+│               confirm.png
+│               current.png
+│               edit.png
+│               map.png
+│               map1.png
+│               profile.png
+│               set_password.png
+│               signIn.png
+│               signUp.png
+│               thinks.png
+│               Untitled.png
+│               upload_Id.png
+│               walet.png
+│
+├───build
+│   │   b2f7e7edd35b3c8d4f463bb8b035ecd8.cache.dill.track.dill
+│   │
+│   ├───4716d4081eb2f00e779f9bea8c611663
+│   │       .filecache
+│   │       dart_build.d
+│   │       dart_build.stamp
+│   │       dart_build_result.json
+│   │       gen_dart_plugin_registrant.stamp
+│   │       gen_localizations.stamp
+│   │       outputs.json
+│   │       _composite.stamp
+│   │
+│   ├───flutter_assets
+│   │   │   AssetManifest.bin
+│   │   │   AssetManifest.bin.json
+│   │   │   FontManifest.json
+│   │   │   NOTICES
+│   │   │
+│   │   ├───assets
+│   │   │   └───images
+│   │   │       │   chat_home.jpg
+│   │   │       │   home_electron.jpg
+│   │   │       │   home_map.png
+│   │   │       │   home_page_news.png
+│   │   │       │   home_page_notes.png
+│   │   │       │   home_travel.jpg
+│   │   │       │   logo_chat.jpg
+│   │   │       │   logo_forms.png
+│   │   │       │   logo_news.png
+│   │   │       │   logo_note.png
+│   │   │       │   logo_ride.jpeg
+│   │   │       │   phone_cover.png
+│   │   │       │   untitled_design.png
+│   │   │       │   welcome_ride.png
+│   │   │       │
+│   │   │       ├───chat_images
+│   │   │       │       categores.png
+│   │   │       │       category_item.png
+│   │   │       │       chat.png
+│   │   │       │       create_group.png
+│   │   │       │       drawer.png
+│   │   │       │       exit_group.png
+│   │   │       │       group_info.png
+│   │   │       │       home.png
+│   │   │       │       logout.png
+│   │   │       │       profile.png
+│   │   │       │       regester.png
+│   │   │       │       regester2.png
+│   │   │       │       search.png
+│   │   │       │       sugesting_groups.png
+│   │   │       │
+│   │   │       ├───forms_images
+│   │   │       │       home.png
+│   │   │       │       logout.png
+│   │   │       │       prize.png
+│   │   │       │       questions.png
+│   │   │       │       rigester1.png
+│   │   │       │       rigester2.png
+│   │   │       │       rigester3.png
+│   │   │       │
+│   │   │       ├───news_images
+│   │   │       │       account.png
+│   │   │       │       home_page.png
+│   │   │       │       login_page.png
+│   │   │       │       Saved_Page.png
+│   │   │       │       Search_Page.png
+│   │   │       │       Splash_Screen.png
+│   │   │       │
+│   │   │       ├───note_images
+│   │   │       │       Editor.png
+│   │   │       │       Editor_1.png
+│   │   │       │       Editor_2.png
+│   │   │       │       Home_Screen.png
+│   │   │       │       Home_Screen_1.png
+│   │   │       │       Home_Screen_Empty.png
+│   │   │       │       Searching_Note.png
+│   │   │       │
+│   │   │       └───ride_images
+│   │   │               avalible_bikespng.png
+│   │   │               bike_detials.png
+│   │   │               complited.png
+│   │   │               confirm.png
+│   │   │               current.png
+│   │   │               edit.png
+│   │   │               map.png
+│   │   │               map1.png
+│   │   │               profile.png
+│   │   │               set_password.png
+│   │   │               signIn.png
+│   │   │               signUp.png
+│   │   │               thinks.png
+│   │   │               Untitled.png
+│   │   │               upload_Id.png
+│   │   │               walet.png
+│   │   │
+│   │   ├───fonts
+│   │   │       MaterialIcons-Regular.otf
+│   │   │
+│   │   ├───packages
+│   │   │   └───cupertino_icons
+│   │   │       └───assets
+│   │   │               CupertinoIcons.ttf
+│   │   │
+│   │   └───shaders
+│   │           ink_sparkle.frag
+│   │           stretch_effect.frag
+│   │
+│   ├───native_assets
+│   │   ├───flutter-tester
+│   │   ├───web
+│   │   └───windows
+│   │           native_assets.json
+│   │
+│   ├───native_hooks
+│   │       .last_build_id
+│   │
+│   ├───test_cache
+│   │   └───build
+│   │           b2f7e7edd35b3c8d4f463bb8b035ecd8.cache.dill.track.dill
+│   │
+│   └───unit_test_assets
+│       │   AssetManifest.bin
+│       │   FontManifest.json
+│       │   NativeAssetsManifest.json
+│       │   NOTICES.Z
+│       │
+│       ├───assets
+│       │   └───images
+│       │       │   chat_home.jpg
+│       │       │   home_electron.jpg
+│       │       │   home_map.png
+│       │       │   home_page_news.png
+│       │       │   home_page_notes.png
+│       │       │   home_travel.jpg
+│       │       │   logo_chat.jpg
+│       │       │   logo_forms.png
+│       │       │   logo_news.png
+│       │       │   logo_note.png
+│       │       │   logo_ride.jpeg
+│       │       │   phone_cover.png
+│       │       │   untitled_design.png
+│       │       │   welcome_ride.png
+│       │       │
+│       │       ├───chat_images
+│       │       │       categores.png
+│       │       │       category_item.png
+│       │       │       chat.png
+│       │       │       create_group.png
+│       │       │       drawer.png
+│       │       │       exit_group.png
+│       │       │       group_info.png
+│       │       │       home.png
+│       │       │       logout.png
+│       │       │       profile.png
+│       │       │       regester.png
+│       │       │       regester2.png
+│       │       │       search.png
+│       │       │       sugesting_groups.png
+│       │       │
+│       │       ├───forms_images
+│       │       │       home.png
+│       │       │       logout.png
+│       │       │       prize.png
+│       │       │       questions.png
+│       │       │       rigester1.png
+│       │       │       rigester2.png
+│       │       │       rigester3.png
+│       │       │
+│       │       ├───news_images
+│       │       │       account.png
+│       │       │       home_page.png
+│       │       │       login_page.png
+│       │       │       Saved_Page.png
+│       │       │       Search_Page.png
+│       │       │       Splash_Screen.png
+│       │       │
+│       │       ├───note_images
+│       │       │       Editor.png
+│       │       │       Editor_1.png
+│       │       │       Editor_2.png
+│       │       │       Home_Screen.png
+│       │       │       Home_Screen_1.png
+│       │       │       Home_Screen_Empty.png
+│       │       │       Searching_Note.png
+│       │       │
+│       │       └───ride_images
+│       │               avalible_bikespng.png
+│       │               bike_detials.png
+│       │               complited.png
+│       │               confirm.png
+│       │               current.png
+│       │               edit.png
+│       │               map.png
+│       │               map1.png
+│       │               profile.png
+│       │               set_password.png
+│       │               signIn.png
+│       │               signUp.png
+│       │               thinks.png
+│       │               Untitled.png
+│       │               upload_Id.png
+│       │               walet.png
+│       │
+│       ├───fonts
+│       │       MaterialIcons-Regular.otf
+│       │
+│       ├───packages
+│       │   └───cupertino_icons
+│       │       └───assets
+│       │               CupertinoIcons.ttf
+│       │
+│       └───shaders
+│               ink_sparkle.frag
+│               stretch_effect.frag
+│
+├───ios
+│   │   .gitignore
+│   │
+│   ├───Flutter
+│   │   │   AppFrameworkInfo.plist
+│   │   │   Debug.xcconfig
+│   │   │   flutter_export_environment.sh
+│   │   │   Generated.xcconfig
+│   │   │   Release.xcconfig
+│   │   │
+│   │   └───ephemeral
+│   │           flutter_lldbinit
+│   │           flutter_lldb_helper.py
+│   │
+│   ├───Runner
+│   │   │   AppDelegate.swift
+│   │   │   GeneratedPluginRegistrant.h
+│   │   │   GeneratedPluginRegistrant.m
+│   │   │   Info.plist
+│   │   │   Runner-Bridging-Header.h
+│   │   │   SceneDelegate.swift
+│   │   │
+│   │   ├───Assets.xcassets
+│   │   │   ├───AppIcon.appiconset
+│   │   │   │       Contents.json
+│   │   │   │       Icon-App-1024x1024@1x.png
+│   │   │   │       Icon-App-20x20@1x.png
+│   │   │   │       Icon-App-20x20@2x.png
+│   │   │   │       Icon-App-20x20@3x.png
+│   │   │   │       Icon-App-29x29@1x.png
+│   │   │   │       Icon-App-29x29@2x.png
+│   │   │   │       Icon-App-29x29@3x.png
+│   │   │   │       Icon-App-40x40@1x.png
+│   │   │   │       Icon-App-40x40@2x.png
+│   │   │   │       Icon-App-40x40@3x.png
+│   │   │   │       Icon-App-60x60@2x.png
+│   │   │   │       Icon-App-60x60@3x.png
+│   │   │   │       Icon-App-76x76@1x.png
+│   │   │   │       Icon-App-76x76@2x.png
+│   │   │   │       Icon-App-83.5x83.5@2x.png
+│   │   │   │
+│   │   │   └───LaunchImage.imageset
+│   │   │           Contents.json
+│   │   │           LaunchImage.png
+│   │   │           LaunchImage@2x.png
+│   │   │           LaunchImage@3x.png
+│   │   │           README.md
+│   │   │
+│   │   └───Base.lproj
+│   │           LaunchScreen.storyboard
+│   │           Main.storyboard
+│   │
+│   ├───Runner.xcodeproj
+│   │   │   project.pbxproj
+│   │   │
+│   │   ├───project.xcworkspace
+│   │   │   │   contents.xcworkspacedata
+│   │   │   │
+│   │   │   └───xcshareddata
+│   │   │           IDEWorkspaceChecks.plist
+│   │   │           WorkspaceSettings.xcsettings
+│   │   │
+│   │   └───xcshareddata
+│   │       └───xcschemes
+│   │               Runner.xcscheme
+│   │
+│   ├───Runner.xcworkspace
+│   │   │   contents.xcworkspacedata
+│   │   │
+│   │   └───xcshareddata
+│   │           IDEWorkspaceChecks.plist
+│   │           WorkspaceSettings.xcsettings
+│   │
+│   └───RunnerTests
+│           RunnerTests.swift
+│
+├───lib
+│   │   main.dart
+│   │
+│   ├───core
+│   │   └───res
+│   │       │   app_colors.dart
+│   │       │   app_string.dart
+│   │       │   app_style.dart
+│   │       │
+│   │       └───images
+│   │               app_images.dart
+│   │               image_items.dart
+│   │
+│   └───features
+│       ├───data
+│       │   ├───local
+│       │   │       list_project.dart
+│       │   │       list_question.dart
+│       │   │
+│       │   └───service
+│       │           launch_service.dart
+│       │
+│       └───view
+│           ├───pages
+│           │   │   main_page.dart
+│           │   │   page_view.dart
+│           │   │   projects_page.dart
+│           │   │   text.dart
+│           │   │
+│           │   └───responsive
+│           │           responsive_utils.dart
+│           │
+│           └───widgets
+│                   bottom_web.dart
+│                   clip_image.dart
+│                   container_item.dart
+│                   flout_appbar.dart
+│                   gradient_text.dart
+│                   my_drawer.dart
+│                   my_widget.dart
+│                   project_widget.dart
+│                   scrole_widget.dart
+│
+├───linux
+│   │   .gitignore
+│   │   CMakeLists.txt
+│   │
+│   ├───flutter
+│   │   │   CMakeLists.txt
+│   │   │   generated_plugins.cmake
+│   │   │   generated_plugin_registrant.cc
+│   │   │   generated_plugin_registrant.h
+│   │   │
+│   │   └───ephemeral
+│   │       └───.plugin_symlinks
+│   │           └───url_launcher_linux
+│   │               │   AUTHORS
+│   │               │   CHANGELOG.md
+│   │               │   LICENSE
+│   │               │   pubspec.yaml
+│   │               │   README.md
+│   │               │
+│   │               ├───example
+│   │               │   │   pubspec.yaml
+│   │               │   │   README.md
+│   │               │   │
+│   │               │   ├───integration_test
+│   │               │   │       url_launcher_test.dart
+│   │               │   │
+│   │               │   ├───lib
+│   │               │   │       main.dart
+│   │               │   │
+│   │               │   ├───linux
+│   │               │   │   │   CMakeLists.txt
+│   │               │   │   │   main.cc
+│   │               │   │   │   my_application.cc
+│   │               │   │   │   my_application.h
+│   │               │   │   │
+│   │               │   │   └───flutter
+│   │               │   │           CMakeLists.txt
+│   │               │   │           generated_plugins.cmake
+│   │               │   │
+│   │               │   └───test_driver
+│   │               │           integration_test.dart
+│   │               │
+│   │               ├───lib
+│   │               │   │   url_launcher_linux.dart
+│   │               │   │
+│   │               │   └───src
+│   │               │           messages.g.dart
+│   │               │
+│   │               ├───linux
+│   │               │   │   CMakeLists.txt
+│   │               │   │   messages.g.cc
+│   │               │   │   messages.g.h
+│   │               │   │   url_launcher_plugin.cc
+│   │               │   │   url_launcher_plugin_private.h
+│   │               │   │
+│   │               │   ├───include
+│   │               │   │   └───url_launcher_linux
+│   │               │   │           url_launcher_plugin.h
+│   │               │   │
+│   │               │   └───test
+│   │               │           url_launcher_linux_test.cc
+│   │               │
+│   │               ├───pigeons
+│   │               │       copyright.txt
+│   │               │       messages.dart
+│   │               │
+│   │               └───test
+│   │                       url_launcher_linux_test.dart
+│   │
+│   └───runner
+│           CMakeLists.txt
+│           main.cc
+│           my_application.cc
+│           my_application.h
+│
+├───macos
+│   │   .gitignore
+│   │
+│   ├───Flutter
+│   │   │   Flutter-Debug.xcconfig
+│   │   │   Flutter-Release.xcconfig
+│   │   │   GeneratedPluginRegistrant.swift
+│   │   │
+│   │   └───ephemeral
+│   │           Flutter-Generated.xcconfig
+│   │           flutter_export_environment.sh
+│   │
+│   ├───Runner
+│   │   │   AppDelegate.swift
+│   │   │   DebugProfile.entitlements
+│   │   │   Info.plist
+│   │   │   MainFlutterWindow.swift
+│   │   │   Release.entitlements
+│   │   │
+│   │   ├───Assets.xcassets
+│   │   │   └───AppIcon.appiconset
+│   │   │           app_icon_1024.png
+│   │   │           app_icon_128.png
+│   │   │           app_icon_16.png
+│   │   │           app_icon_256.png
+│   │   │           app_icon_32.png
+│   │   │           app_icon_512.png
+│   │   │           app_icon_64.png
+│   │   │           Contents.json
+│   │   │
+│   │   ├───Base.lproj
+│   │   │       MainMenu.xib
+│   │   │
+│   │   └───Configs
+│   │           AppInfo.xcconfig
+│   │           Debug.xcconfig
+│   │           Release.xcconfig
+│   │           Warnings.xcconfig
+│   │
+│   ├───Runner.xcodeproj
+│   │   │   project.pbxproj
+│   │   │
+│   │   ├───project.xcworkspace
+│   │   │   └───xcshareddata
+│   │   │           IDEWorkspaceChecks.plist
+│   │   │
+│   │   └───xcshareddata
+│   │       └───xcschemes
+│   │               Runner.xcscheme
+│   │
+│   ├───Runner.xcworkspace
+│   │   │   contents.xcworkspacedata
+│   │   │
+│   │   └───xcshareddata
+│   │           IDEWorkspaceChecks.plist
+│   │
+│   └───RunnerTests
+│           RunnerTests.swift
+│
+├───test
+│       widget_test.dart
+│
+├───web
+│   │   favicon.png
+│   │   index.html
+│   │   manifest.json
+│   │
+│   └───icons
+│           Icon-192.png
+│           Icon-512.png
+│           Icon-maskable-192.png
+│           Icon-maskable-512.png
+│
+└───windows
+    │   .gitignore
+    │   CMakeLists.txt
+    │
+    ├───flutter
+    │   │   CMakeLists.txt
+    │   │   generated_plugins.cmake
+    │   │   generated_plugin_registrant.cc
+    │   │   generated_plugin_registrant.h
+    │   │
+    │   └───ephemeral
+    │       └───.plugin_symlinks
+    │           └───url_launcher_windows
+    │               │   AUTHORS
+    │               │   CHANGELOG.md
+    │               │   LICENSE
+    │               │   pubspec.yaml
+    │               │   README.md
+    │               │
+    │               ├───example
+    │               │   │   pubspec.yaml
+    │               │   │   README.md
+    │               │   │
+    │               │   ├───integration_test
+    │               │   │       url_launcher_test.dart
+    │               │   │
+    │               │   ├───lib
+    │               │   │       main.dart
+    │               │   │
+    │               │   ├───test_driver
+    │               │   │       integration_test.dart
+    │               │   │
+    │               │   └───windows
+    │               │       │   CMakeLists.txt
+    │               │       │
+    │               │       ├───flutter
+    │               │       │       CMakeLists.txt
+    │               │       │       generated_plugins.cmake
+    │               │       │
+    │               │       └───runner
+    │               │           │   CMakeLists.txt
+    │               │           │   flutter_window.cpp
+    │               │           │   flutter_window.h
+    │               │           │   main.cpp
+    │               │           │   resource.h
+    │               │           │   runner.exe.manifest
+    │               │           │   Runner.rc
+    │               │           │   run_loop.cpp
+    │               │           │   run_loop.h
+    │               │           │   utils.cpp
+    │               │           │   utils.h
+    │               │           │   win32_window.cpp
+    │               │           │   win32_window.h
+    │               │           │
+    │               │           └───resources
+    │               │                   app_icon.ico
+    │               │
+    │               ├───lib
+    │               │   │   url_launcher_windows.dart
+    │               │   │
+    │               │   └───src
+    │               │           messages.g.dart
+    │               │
+    │               ├───pigeons
+    │               │       copyright.txt
+    │               │       messages.dart
+    │               │
+    │               ├───test
+    │               │       url_launcher_windows_test.dart
+    │               │
+    │               └───windows
+    │                   │   CMakeLists.txt
+    │                   │   messages.g.cpp
+    │                   │   messages.g.h
+    │                   │   system_apis.cpp
+    │                   │   system_apis.h
+    │                   │   url_launcher_plugin.cpp
+    │                   │   url_launcher_plugin.h
+    │                   │   url_launcher_windows.cpp
+    │                   │
+    │                   ├───include
+    │                   │   └───url_launcher_windows
+    │                   │           url_launcher_windows.h
+    │                   │
+    │                   └───test
+    │                           url_launcher_windows_test.cpp
+    │
+    └───runner
+        │   CMakeLists.txt
+        │   flutter_window.cpp
+        │   flutter_window.h
+        │   main.cpp
+        │   resource.h
+        │   runner.exe.manifest
+        │   Runner.rc
+        │   utils.cpp
+        │   utils.h
+        │   win32_window.cpp
+        │   win32_window.h
+        │
+        └───resources
+                app_icon.ico
